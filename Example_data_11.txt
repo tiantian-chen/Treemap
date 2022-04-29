@@ -1,0 +1,14 @@
+GuangDong	27117.96
+JiangSu	25878.38
+ShanDong	18055.50
+ZheJiang	16347.04
+HeNan	13306.65
+SiChuan	11859.24
+FuJian	10705.61
+HuNan	10223.99
+HuBei	9872.67
+BeiJing	8915.91
+ShangHai	9458.86
+ChongQing	5995.25
+AnHui	9529.12
+ShanXi	6352.79
